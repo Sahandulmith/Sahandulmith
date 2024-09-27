@@ -47,8 +47,8 @@
 
 ### My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahandulmith&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahandulmith&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahandulmith&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahandulmith&layout=compact&theme=radical)
 
 ### Connect With Me
 
