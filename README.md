@@ -11,32 +11,7 @@
 
 ### About Me
 
-```java
-public class Profile {
-
-    public static void main(String[] args) {
-
-        String passion = "software development";
-        String[] focus = {
-            "Building scalable applications 💻",
-            "AI & Machine Learning 🤖",
-            "Creating open-source interfaces 🛠️"
-        };
-
-        String[] traits = {"curious", "creative", "relentless learner"};
-
-        System.out.println("Passion: " + passion);
-        for (String f : focus) {
-            System.out.println("Focus: " + f);
-        }
-
-        for (String trait : traits) {
-            System.out.println("Traits: " + trait);
-        }
-    }
-}
-
-## 🚀 Tech Stack:
+🚀 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
