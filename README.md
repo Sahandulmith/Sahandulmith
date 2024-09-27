@@ -55,8 +55,7 @@ Check out my projects on GitHub: **[sahandulmith](https://github.com/sahandulmit
 
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=sahandulmith&theme=vue-dark&hide_border=true' />
 
-<!-- Alternative most used languages card -->
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=sahandulmith&theme=vue-dark&layout=compact&hide_border=true&langs_count=6&count_private=true&cache_seconds=1800' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=sahandulmith&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true' />
 
 ---
 
