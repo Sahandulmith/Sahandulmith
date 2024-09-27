@@ -14,7 +14,7 @@
 
 ### About Me
 
-
+Hi, I'm Sahan Dulmith, a passionate developer specializing in enterprise applications and software solutions. I have experience in Java, Python, and SQL, and I'm currently focused on building projects that enhance user experiences and streamline processes. My recent work includes developing a Restaurant POS System, emphasizing user-friendly interfaces and robust functionalities. I'm also delving into Android development and exploring face recognition technology for attendance systems. In addition to coding, I enjoy experimenting with web design using Bootstrap and custom CSS. You can check out my projects on my GitHub profile, sahandulmith.
 
 ### My Tech Toolbox
 
