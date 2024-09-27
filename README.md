@@ -4,7 +4,7 @@
 
 
 <!--![Welcome Banner](https://media.licdn.com/dms/image/D5616AQEnES6difoqrA/profile-displaybackgroundimage-shrink_350_1400/0/1694696296345?e=1724284800&v=beta&t=O1oGIMfrsHVnzSFp5GbH49gjGBLxDXpLOJVAuGPglSA) <!-- Add your banner image link here -->
-<img src="[https://i.imgur.com/1QpuHTJ.gif](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)" alt="Demo GIF" style="width:100vw;">
+<<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 ## Hi there, I'm Sahan Dulmith! <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture>
 
