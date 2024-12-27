@@ -79,3 +79,9 @@ Check out my projects on GitHub: **[sahandulmith](https://github.com/sahandulmit
 ### 🚀 Let's Create Something Amazing Together!
 
 Feel free to explore my repositories, open issues, or reach out if you'd like to collaborate on exciting projects. Let's push the boundaries of technology and innovation together!
+
+---
+
+### Profile views counter 👁️‍🗨️
+[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/sahandulmith)
+
