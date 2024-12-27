@@ -59,10 +59,6 @@ Check out my projects on GitHub: **[sahandulmith](https://github.com/sahandulmit
 <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sahandulmith&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahandulmith&layout=compact&&langs_count=8"/>
 </div>
-
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=sahandulmith&theme=vue-dark&hide_border=true' />
-
-
 ---
 
 ### 🤝 Connect With Me
