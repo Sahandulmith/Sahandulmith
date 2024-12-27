@@ -55,12 +55,13 @@ Check out my projects on GitHub: **[sahandulmith](https://github.com/sahandulmit
 ---
 
 ### 📊 My GitHub Stats
-
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=sahandulmith&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sahandulmith&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahandulmith&layout=compact&&langs_count=8"/>
+</div>
 
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=sahandulmith&theme=vue-dark&hide_border=true' />
 
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=sahandulmith&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true' />
 
 ---
 
