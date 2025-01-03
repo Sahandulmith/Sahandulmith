@@ -13,11 +13,8 @@
 
 ### ✨ About Me
 
-Hi, I'm Sahan Dulmith, a passionate developer specializing in enterprise applications and software solutions. I have experience in Java, Python, and SQL, and I'm currently focused on building projects that enhance user experiences and streamline processes. 
-
-🚀 **My latest project:** Building a **face recognition system** with advanced machine learning algorithms. This system is designed for attendance management and user authentication, focusing on real-time performance and accuracy.
-
-I’m also exploring **Android development** and enhancing web designs using **Bootstrap** and **custom CSS**.
+Hi, I'm Sahan Dulmith!
+A highly skilled full-stack software developer with a passion for building efficient and scalable applications across various platforms. My expertise spans multiple programming languages, frameworks, and tools, enabling me to craft tailored solutions for both frontend and backend development.
 
 Check out my projects on GitHub: **[sahandulmith](https://github.com/sahandulmith)**.
 
